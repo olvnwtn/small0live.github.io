@@ -4,17 +4,17 @@ title: About
 permalink: /about/
 ---
 
-## My Work
+## Exploring Ideas, Sharing Knowledge
 
 My research focuses on how teams learn, make decisions, and collaborate effectively in sociotechnical systems. 
 
 I study human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology, including AI tools, to coordinate, innovate, and solve problems. 
 
-One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, focuses on developing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
+One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, centers on advancing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
 
-<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm also a member of the faculty at the University of Montana</a> (UM) and [teach in UM's Master of Science in Business Analytics program](/teaching/). 
+<a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm a member of the faculty at the University of Montana</a> (UM) and [teach in UM's Master of Science in Business Analytics program](/teaching/). 
 
-## Recent Activity
+## Research Highlights
 
 * Presented research on <a href="https://zenodo.org/records/17281562">collaboration in scientific software</a> at the <a href="https://us-rse.org/usrse25/">US Research Software Engineering Conference</a> (October 2025).
 
