@@ -6,7 +6,11 @@ permalink: /about/
 
 ## My Work
 
-My research focuses on how teams learn, make decisions, and collaborate effectively in complex sociotechnical systems. I study both human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology and AI tools to coordinate, innovate, and solve complex problems. One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, focuses on developing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. <a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm also a member of the faculty at the University of Montana</a> (UM) and [teach in UM's Master of Science in Business Analytics program](/teaching/). 
+My research focuses on how teams learn, make decisions, and collaborate effectively in complex sociotechnical systems. 
+
+I study both human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology and AI tools to coordinate, innovate, and solve complex problems. 
+
+One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, focuses on developing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. <a href="https://www.umt.edu/business-faculty-staff/directory/information-systems.php?ID=9093">I'm also a member of the faculty at the University of Montana</a> (UM) and [teach in UM's Master of Science in Business Analytics program](/teaching/). 
 
 ## Recent Activity
 
