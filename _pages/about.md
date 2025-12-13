@@ -16,7 +16,7 @@ One of my current research projects, sponsored by the U.S. Department of Energy 
 
 * Presented research on <a href="https://zenodo.org/records/17281562">collaboration in scientific software</a> at the <a href="https://us-rse.org/usrse25/">US Research Software Engineering Conference</a> (October 2025).
 
-<a href="https://events.cels.anl.gov/event/602/overview">Toward Next-Generation Ecosystems for Scientific Computing Workshop</a> hosted at Argonne National Laboratory (April-May 2025).
+* <a href="https://events.cels.anl.gov/event/602/overview">Toward Next-Generation Ecosystems for Scientific Computing Workshop</a> hosted at Argonne National Laboratory (April-May 2025).
 
 * Co-organized the <a href="https://events.cels.anl.gov/event/602/overview">Toward Next-Generation Ecosystems for Scientific Computing Workshop</a> hosted at Argonne National Laboratory (April-May 2025).
 
