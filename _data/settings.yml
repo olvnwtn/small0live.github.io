@@ -57,7 +57,7 @@ links__item:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hola - I'm <br> <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
+  hero__title: Hola! I'm <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
   hero__job: 
   hero__description: My work focuses on enhancing human cognition and collaboration in science and engineering.
   hero__button__text: Get to know me
