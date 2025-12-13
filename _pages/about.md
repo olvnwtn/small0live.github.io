@@ -6,9 +6,9 @@ permalink: /about/
 
 ## My Work
 
-My research focuses on how teams learn, make decisions, and collaborate effectively in complex sociotechnical systems. 
+My research focuses on how teams learn, make decisions, and collaborate effectively in sociotechnical systems. 
 
-I study both human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology and AI tools to coordinate, innovate, and solve complex problems. 
+I study human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology, including AI tools, to coordinate, innovate, and solve problems. 
 
 One of my current research projects, sponsored by the U.S. Department of Energy via a grant from Argonne National Laboratory, focuses on developing AI-enabled scientific computing ecosystems that integrate software and human expertise to accelerate discovery. 
 
