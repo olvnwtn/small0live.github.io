@@ -32,7 +32,7 @@ menu__settings:
 author:
   author__name: Olivia B. Newton, Ph.D.
   author__avatar: "/images/obn.png"
-  author__bio: I'm a researcher who is passionate about improving learning and collaboration—I love working with experts across disciplines to solve complex problems with significant societal impact.
+  author__bio: I'm a researcher who is passionate about improving learning and collaboration—I work with experts across disciplines to tackle complex problems with significant societal impact.
 
 #-------------------------------
 # Links Section Settings
@@ -57,7 +57,7 @@ links__item:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi | Hola, I'm <br> <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
+  hero__title: Hola - I'm <br> <span>Olivia B. Newton</span>. # Wrap text in a <span></span> tag to highlight and underline text.
   hero__job: 
   hero__description: My work focuses on enhancing human cognition and collaboration in science and engineering.
   hero__button__text: Get to know me
@@ -110,7 +110,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: #your@email.com # Add your email for contant form
   description: # Atega comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
