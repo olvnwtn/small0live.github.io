@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Exploring Ideas, Sharing Knowledge
-
 My research focuses on how teams learn, make decisions, and collaborate effectively in sociotechnical systems. 
 
 I study human–machine teams and human-only teams, examining how training, expertise, and cognitive processes shape performance in contexts ranging from intelligent agents and human-robot interaction to open source and scientific software development. I also investigate how teams use technology, including AI tools, to coordinate, innovate, and solve problems. 
