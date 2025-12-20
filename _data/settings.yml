@@ -42,7 +42,7 @@ links:
 
 links__item:
   - title: My Curriculum Vitae
-    description: A summary of my qualifications, accomplishments, and education. 
+    description: A summary of my qualifications and accomplishments. 
     image_url: "/images/CV-1.png"
     image_alt: First page of CV
     link: "https://bit.ly/obn_cv"
